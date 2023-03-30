@@ -27,13 +27,13 @@ int main()
     printf("Peso nota Nº 2: %.1f\n",result2);
     printf("Nota final: %.1f\n", notaFinal);
     if(notaFinal <= 4.9 ){
-        printf("Condeito final: D");
+        printf("Conceito final: D");
     }else if(notaFinal >= 5 && notaFinal <= 6.9){
-        printf("Condeito final: C");
+        printf("Conceito final: C");
     }else if(notaFinal >= 7 && notaFinal <=8.9){
-        printf("Condeito final: B");
+        printf("Conceito final: B");
     }else{
-        printf("Condeito final: A");
+        printf("Conceito final: A");
     }
     return 0;
     
