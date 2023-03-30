@@ -15,7 +15,7 @@ int main()
     float n1;
     float n2;
     float notaFinal;
-    printf("==CALCULA NOTA==\n\n");
+    printf("=========CALCULA NOTA=========\n\n");
     printf("Digite o valor da primeira nota: ");
     scanf("%f",&n1);
     printf("Digite o valor da segunda nota: ");
