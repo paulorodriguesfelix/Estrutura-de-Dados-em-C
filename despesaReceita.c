@@ -1,9 +1,9 @@
 #include <stdio.h>
-int rece(int a, int b){
+float rece(float a, float b){
     int resultado = a+b;
     return resultado;
 }
-int desp(int a, int b){
+float desp(float a, float b){
     int resultado = a-b;
     return resultado;
 }
